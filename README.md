@@ -7,4 +7,4 @@
 
 <h2>🖥️ 𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚𝐬</h2>
 
-<img src="https://skills.thijs.gg/icons?i=javascript,typescript,nodejs,java,spring,react,vite,postgres,mysql,docker,vscode,git&perline=7" align="left" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,java,spring,react,vite,postgres,mysql,docker,vscode,postman,git&perline=7" align="left" />
