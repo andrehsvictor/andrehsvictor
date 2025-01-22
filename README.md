@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="50%">
+<td>
 <h2>📖 𝐒𝐨𝐛𝐫𝐞 𝐦𝐢𝐦</h2>
 
 - 👾 Me chamo André 
@@ -14,8 +14,8 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrehsvictor&layout=compact&theme=dark" /> -->
 </div>
 </td>
-<td width="50%">
-<img src="https://i.pinimg.com/originals/16/5f/5a/165f5a7188c7a5164debaabd406ef43c.gif" width="200%" />
+<td width="500px">
+<img src="https://i.pinimg.com/originals/16/5f/5a/165f5a7188c7a5164debaabd406ef43c.gif" width="100%" />
 </td>
 </tr>
 </table>
