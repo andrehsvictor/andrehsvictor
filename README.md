@@ -14,7 +14,7 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrehsvictor&layout=compact&theme=dark" /> -->
 </div>
 </td>
-<td width="500px">
+<td width="400px">
 <img src="https://i.pinimg.com/originals/16/5f/5a/165f5a7188c7a5164debaabd406ef43c.gif" width="100%" />
 </td>
 </tr>
